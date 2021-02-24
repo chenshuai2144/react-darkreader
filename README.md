@@ -68,6 +68,7 @@ export default () => {
     contrast: 90,
     sepia: 10
   }
+  onChange={(checked:boolean)=>void}
 />
 ```
 
